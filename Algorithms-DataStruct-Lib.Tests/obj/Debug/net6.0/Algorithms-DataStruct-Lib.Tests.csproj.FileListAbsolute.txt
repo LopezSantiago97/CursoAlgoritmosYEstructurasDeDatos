@@ -1,8 +1,3 @@
-C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.csproj.AssemblyReference.cache
-C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.AssemblyInfoInputs.cache
-C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.AssemblyInfo.cs
-C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.csproj.CoreCompileInputs.cache
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\testhost.dll
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\CursoAlgoritmosYEstructurasDeDatos.deps.json
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\CursoAlgoritmosYEstructurasDeDatos.runtimeconfig.json
@@ -96,6 +91,11 @@ C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-Data
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\CursoAlgoritmosYEstructurasDeDatos.dll
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\bin\Debug\net6.0\CursoAlgoritmosYEstructurasDeDatos.pdb
+C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.csproj.AssemblyReference.cache
+C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.AssemblyInfoInputs.cache
+C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.AssemblyInfo.cs
+C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.csproj.CoreCompileInputs.cache
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.csproj.CopyComplete
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\Algorithms-DataStruct-Lib.Tests.dll
 C:\Users\SLopez\Desktop\REPOS\CursoAlgoritmosYEstructurasDeDatos\Algorithms-DataStruct-Lib.Tests\obj\Debug\net6.0\refint\Algorithms-DataStruct-Lib.Tests.dll
